@@ -1,0 +1,1 @@
+/c/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe --heap 512 --load $1
